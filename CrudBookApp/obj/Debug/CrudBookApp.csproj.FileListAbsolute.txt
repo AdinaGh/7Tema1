@@ -1,0 +1,9 @@
+D:\work\repos\7tema1\CrudBookApp\bin\Debug\CrudBookApp.exe.config
+D:\work\repos\7tema1\CrudBookApp\bin\Debug\CrudBookApp.exe
+D:\work\repos\7tema1\CrudBookApp\bin\Debug\CrudBookApp.pdb
+D:\work\repos\7tema1\CrudBookApp\bin\Debug\Data.dll
+D:\work\repos\7tema1\CrudBookApp\bin\Debug\Data.pdb
+D:\work\repos\7tema1\CrudBookApp\obj\Debug\CrudBookApp.csprojAssemblyReference.cache
+D:\work\repos\7tema1\CrudBookApp\obj\Debug\CrudBookApp.csproj.CopyComplete
+D:\work\repos\7tema1\CrudBookApp\obj\Debug\CrudBookApp.exe
+D:\work\repos\7tema1\CrudBookApp\obj\Debug\CrudBookApp.pdb

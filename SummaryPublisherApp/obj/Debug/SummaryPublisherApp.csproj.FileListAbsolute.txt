@@ -1,0 +1,9 @@
+D:\work\repos\7tema1\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+D:\work\repos\7tema1\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+D:\work\repos\7tema1\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+D:\work\repos\7tema1\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+D:\work\repos\7tema1\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+D:\work\repos\7tema1\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb
+D:\work\repos\7tema1\SummaryPublisherApp\bin\Debug\Data.dll
+D:\work\repos\7tema1\SummaryPublisherApp\bin\Debug\Data.pdb
+D:\work\repos\7tema1\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CopyComplete

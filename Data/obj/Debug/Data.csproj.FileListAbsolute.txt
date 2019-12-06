@@ -1,0 +1,5 @@
+D:\work\repos\7tema1\Data\bin\Debug\Data.dll
+D:\work\repos\7tema1\Data\bin\Debug\Data.pdb
+D:\work\repos\7tema1\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\work\repos\7tema1\Data\obj\Debug\Data.dll
+D:\work\repos\7tema1\Data\obj\Debug\Data.pdb

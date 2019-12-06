@@ -1,0 +1,9 @@
+D:\work\repos\7tema1\InsertPublisherApp\obj\Debug\InsertPublisherApp.csprojAssemblyReference.cache
+D:\work\repos\7tema1\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe.config
+D:\work\repos\7tema1\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe
+D:\work\repos\7tema1\InsertPublisherApp\bin\Debug\InsertPublisherApp.pdb
+D:\work\repos\7tema1\InsertPublisherApp\obj\Debug\InsertPublisherApp.exe
+D:\work\repos\7tema1\InsertPublisherApp\obj\Debug\InsertPublisherApp.pdb
+D:\work\repos\7tema1\InsertPublisherApp\bin\Debug\Data.dll
+D:\work\repos\7tema1\InsertPublisherApp\bin\Debug\Data.pdb
+D:\work\repos\7tema1\InsertPublisherApp\obj\Debug\InsertPublisherApp.csproj.CopyComplete
